@@ -14,7 +14,7 @@ logo: assets/images/blog-icon.png
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://codehane.github.io/blog/
-source_url: https://github.com/Codehane/blog
+source_url: https://github.com/Codehane/blog/
 
 # Social info
 navigation: True # show the navbar links
@@ -65,13 +65,13 @@ feed:
 # or "master" otherwise
 safe: False
 lsi: False
-username: jekyller
-repo: jasper2
+username: codehane
+repo: blog
 branch: master
-relative_source: ../jasper2/
-destination: ../jasper2-pages/
-production_url:  https://jekyller.github.io/jasper2/
-source_url:  https://github.com/jekyller/jasper2/
+relative_source: ../blog/
+destination: ../blog-pages/
+production_url: https://codehane.github.io/blog/
+source_url: https://github.com/Codehane/blog/
 
 # Default Page Settings
 defaults:
